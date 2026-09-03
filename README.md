@@ -11,7 +11,8 @@
 
   <p align="center">
     🎓 <b>Artificial Intelligence & Machine Learning Student</b> at <b>Panimalar Engineering College</b><br/>
-    📍 <b>Chennai, Tamil Nadu, India</b>
+    📍 <b>Chennai, Tamil Nadu, India</b><br/>
+    🌐 <b>Portfolio:</b> <a href="https://akashgallery.vercel.app/"><b>akashgallery.vercel.app</b></a>
   </p>
 
   <p align="center">
@@ -27,6 +28,7 @@
 I am a passionate **AI & Machine Learning Student** dedicated to engineering intelligent systems, building retrieval-augmented generation models, and transforming complex data into actionable real-world solutions. 
 
 - 🎓 Pursuing B.E. in **Artificial Intelligence & Machine Learning** at Panimalar Engineering College.
+- 🌐 Explore my projects & research on my [Personal Portfolio Website](https://akashgallery.vercel.app/).
 - 💡 Deep interest in **Generative AI**, **RAG Systems**, **Deep Learning**, **NLP**, and **Computer Vision**.
 - 📊 Experienced in crafting end-to-end data analytics pipelines, interactive dashboards, and ML models.
 - 🛠️ Building industrial safety platforms, automated vision detection systems, and MLOps batch pipelines.
@@ -62,7 +64,7 @@ I am a passionate **AI & Machine Learning Student** dedicated to engineering int
 
 ### 🌟 Featured Projects
 
-| Project | Description | Technologies | Repository |
+| Project | Description | Technologies | Repository / Live Demo |
 | :--- | :--- | :--- | :---: |
 | 🔍 **Personal RAG Learning Lab** | Experimental framework for building, evaluating, and optimizing Retrieval-Augmented Generation systems using vector stores and LLMs. | `Python` `RAG` `GenAI` `VectorDB` | [🔗 View Code](https://github.com/iakash2701/personal-rag-learning-lab) |
 | 🛡️ **Zero Harm AI Safety System** | Industrial safety platform that predicts workplace hazards using multi-modal sensor data, spatial worker logs, and ML model predictions. | `Python` `Machine Learning` `Data Analytics` | [🔗 View Code](https://github.com/iakash2701/zero-harm-ai-safety-system) |
@@ -71,7 +73,7 @@ I am a passionate **AI & Machine Learning Student** dedicated to engineering int
 | 🛵 **Bike License Plate Detection** | Automated traffic surveillance vision module detecting motorbikes operating without valid number plates. | `Python` `Computer Vision` `Object Detection` | [🔗 View Code](https://github.com/iakash2701/Bike-Without-Number-Plate) |
 | 📊 **Bluestock Fund Analytics** | Financial data analytics engine with automated AMFI validation, live NAV ingestion, and quality tracking. | `Python` `Pandas` `Jupyter` `Data Analytics` | [🔗 View Code](https://github.com/iakash2701/Bluestock) |
 | 🍽️ **Restaurant Rating Predictor** | Machine learning regression model predicting restaurant customer satisfaction and ratings based on features & feedback. | `Python` `Scikit-Learn` `HTML/CSS` | [🔗 View Code](https://github.com/iakash2701/Predict-Restaurant-Ratings) |
-| 🌐 **Personal Portfolio Website** | Interactive portfolio website presenting project architectures, technical capabilities, and academic profile. | `HTML` `CSS` `JavaScript` | [🔗 View Code](https://github.com/iakash2701/Portfolio) |
+| 🌐 **Personal Portfolio Website** | Modern interactive portfolio website presenting project architectures, technical capabilities, and academic profile. | `HTML` `CSS` `JavaScript` | [🚀 Live Demo](https://akashgallery.vercel.app/) \| [🔗 Code](https://github.com/iakash2701/Portfolio) |
 
 ---
 
@@ -105,9 +107,9 @@ I am a passionate **AI & Machine Learning Student** dedicated to engineering int
 
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-121011?style=for-the-badge&logo=vercel&logoColor=white)](https://akashgallery.vercel.app/)
   &nbsp;&nbsp;
-  [![Portfolio](https://img.shields.io/badge/Portfolio-121011?style=for-the-badge&logo=react&logoColor=61DAFB)](https://iakash2701.github.io/Portfolio)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
   &nbsp;&nbsp;
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
